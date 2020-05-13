@@ -10,7 +10,7 @@ If normalization should be used is based on  `"state" : "off"` or  `"state" : "o
 1. Add JSONRPC command
 2. Set name to `Normalization ON`
 3. Set JSON-RPC "method" to `Addons.ExecuteAddon`
-4. Set JSON-RPC "params" to `{"addoni":"script.audio.normalizer", "params":{"state": "on"}}`
+4. Set JSON-RPC "params" to `{"addonid":"script.audio.normalizer", "params":{"state": "on"}}`
 5. Repeat same procedure with `"state" : "off"`
 
 
