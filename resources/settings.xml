@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<setting id="vol_down" type="slider" label="Volume" default="60" range="0,1,100" option="int"/>
+	<setting id="vol_amp" type="slider" label="Volume amplification" default="23" range="0,1,100" option="int"/>
+</settings>
